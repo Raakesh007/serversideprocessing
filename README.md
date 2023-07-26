@@ -97,11 +97,9 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 ```
 
 ## OUTPUT:
-![triangle1](triangle1.png)
-![triangle2](triangle2.png)
 
+![triangle2](https://github.com/Raakesh007/serversideprocessing/assets/138850267/a0863371-92c9-4e3d-aff9-fe34e34f5814)
 
-### Home Page:
 
 
 ## Result:
